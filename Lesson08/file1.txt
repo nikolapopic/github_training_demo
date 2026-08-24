@@ -1,0 +1,7 @@
+<<<<<<< Updated upstream
+Hello 
+Modification 
+=======
+Goodbye 
+Additional change 
+>>>>>>> Stashed changes
